@@ -2,7 +2,8 @@
 <html> 
 <header> 
 <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
-<title class="fancy">Philosophize That</title> 
+<link href="C:\Users\debra\Documents\GitHub\philosophizethat" type="text/CSS" rel="stylesheet">
+<title>Philosophize That</title> 
 </header> 
 <body> 
 <h1>Philosophize That</h1> 
