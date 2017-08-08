@@ -1,0 +1,12 @@
+<html> 
+<header> 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Lora');
+</style>
+<link href="C:\Users\debra\Documents\GitHub\philosophizethat" type="text/CSS" rel="stylesheet">
+<title>Philosophize That</title> 
+</header> 
+<body> 
+<h1>Philosophize That</h1> 
+</body> 
+</html> 
